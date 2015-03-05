@@ -1,0 +1,9 @@
+Package: nnls
+Type: Package
+Title: Solving the non-negative least squares problem
+Version: 1.0
+Date: 2015-03-04
+Author: Ljiljana Zigic and Shaun Donachy
+Maintainer: Ljiljana Zigic <zigicljiljana@gmail.com> and Shaun Donachy <donachys@gmail.com>
+Description: Package for solving the non-negative least squares problem. It consists of three amazing solvers. 
+License: What license is it under?
